@@ -1,0 +1,44 @@
+{
+  "pokemon": [
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "attacks": [
+        "Quick attack",
+        "Thunder shock"
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "attacks": [
+        "water gun",
+        "rain splash"
+      ]
+    },
+    {
+      "name": "Starmie",
+      "type": "water",
+      "attacks": [
+        "Psywave",
+        "water gun"
+      ]
+    },
+    {
+      "name": "Onix",
+      "type": "rock",
+      "attacks": [
+        "Iron tail",
+        "Rock slide"
+      ]
+    },
+    {
+      "name": "Eevee",
+      "type": "normal",
+      "attacks": [
+        "Run away",
+        "adaptability"
+      ]
+    }
+  ]
+}

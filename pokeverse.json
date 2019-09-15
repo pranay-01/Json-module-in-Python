@@ -1,0 +1,34 @@
+{
+   "pokemon": [
+   {
+      "name":"Pikachu",
+      "type":"Electric",
+      "isEvoluted":"True",
+      "attacks":["Quick attack","Thunder shock"]
+   },
+   {
+       "name":"Squirtle",
+       "type":"Water",
+       "isEvoluted":"True",
+       "attacks":["water gun","rain splash"]
+   },
+   {
+       "name":"Starmie",
+       "type":"water",
+       "isEvoluted":"False",
+       "attacks":["Psywave","water gun"]
+   },
+   {
+       "name":"Onix",
+       "type":"rock",
+       "isEvoluted":"True",
+       "attacks":["Iron tail","Rock slide"]
+   },
+   {
+       "name":"Eevee",
+       "type":"normal",
+       "isEvoluted":"True",
+       "attacks":["Run away","adaptability"]
+   }
+   ]
+}
